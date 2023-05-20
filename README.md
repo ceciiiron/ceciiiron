@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+```json
+{
+  "country":  "Philippines",
+  "city":     "Voerde (NRW)",
+  "stack":    ["PHP", "MySQL", "CodeIgniter 4", "HTML", "CSS", "JS", "ReactJS", "jQuery",],
+  "interest": ["Indie gaming"], 
+  "quote":    "Time is gold."
+}
+```
+
+
 <!--
 **ceciiiron/ceciiiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
