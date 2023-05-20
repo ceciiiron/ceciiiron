@@ -3,7 +3,7 @@
 ```json
 {
   "country":  "Philippines",
-  "city":     "Voerde (NRW)",
+  "city":     "Legazpi City",
   "stack":    ["PHP", "MySQL", "CodeIgniter 4", "HTML", "CSS", "JS", "ReactJS", "jQuery",],
   "interest": ["Indie gaming"], 
   "quote":    "Time is gold."
