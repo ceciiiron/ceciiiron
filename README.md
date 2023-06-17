@@ -5,10 +5,12 @@
   "country":  "Philippines",
   "city":     "Legazpi City",
   "stack":    ["PHP", "MySQL", "CodeIgniter 4", "HTML", "CSS", "JS", "ReactJS", "AlpineJS", "jQuery"],
-  "interest": ["Indie gaming"], 
+  "interest": ["Javascript", "Indie gaming"], 
   "quote":    "Time is gold."
 }
 ```
+
+<a href="https://app.daily.dev/ceciiiron"><img src="https://api.daily.dev/devcards/522d39a61fd940339ba72449d77fb01e.png?r=8br" width="400" alt="Ceciron's Dev Card"/></a>
 
 
 <!--
