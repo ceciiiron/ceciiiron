@@ -4,7 +4,7 @@
 {
   "country":  "Philippines",
   "city":     "Legazpi City",
-  "stack":    ["PHP", "MySQL", "CodeIgniter 4", "HTML", "CSS", "JS", "ReactJS", "AlpineJS", "jQuery"],
+  "stack":    ["PHP", "MySQL", "CodeIgniter 4", "Laravel" "HTML", "CSS", "JS", "ReactJS", "AlpineJS", "jQuery"],
   "interest": ["Javascript", "Indie gaming"], 
   "quote":    "Time is gold."
 }
