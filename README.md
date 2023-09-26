@@ -2,31 +2,26 @@
 <img alt="Snake" src="./assets/github-contribution-grid-snake.svg" width='100%' align="left"/>
 </div>&nbsp;
 
-```json
-{
-  "country":  "Philippines",
-  "city":     "Legazpi City",
-  "stack":    ["HTML", "CSS", "JS","PHP", "MySQL", "CodeIgniter 4", "Laravel", "ReactJS", "NodeJS", "AlpineJS", "Typescript", "jQuery"],
-  "interest": ["JAVASCRIPT 💖", "Indie gaming"], 
+# 🙋🏻‍♂️ Hello world, I'm **Ceciron**
+
+- 🏢 I'm currently working as a full-stack web developer somewhere here in the Philippines
+- 🌱 I'm currently learning Typescript and refreshing my knowledge of ReactJS
+- 👷🏻‍♂️ I'm rebuilding my old projects to correct my bad practices
+
+
+```js
+const profile = { 
+  "name" : "Ceciron the third",
+  "interest": ["New frameworks, libraries etc", "Indie games"], 
   "quote":    "Time is gold."
 }
 ```
 
 
-
+# **🧰 Toolbox**
 
 <div align="center">
-<a href="https://app.daily.dev/ceciiiron"><img src="https://api.daily.dev/devcards/522d39a61fd940339ba72449d77fb01e.png?r=8br" width="400" alt="Ceciron's Dev Card"/></a>
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 </div>
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
