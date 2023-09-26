@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<img alt="Snake" src="./assets/github-contribution-grid-snake.svg" width='100%' align="left"/>
+</div>&nbsp;
 
 ```json
 {
@@ -10,9 +12,7 @@
 }
 ```
 
-<div align="center">
-<img alt="Snake" src="./assets/github-contribution-grid-snake.svg" width='100%' align="left"/>
-</div>&nbsp;
+
 
 
 <div align="center">
