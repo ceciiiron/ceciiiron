@@ -30,9 +30,8 @@ const profile = {
 
 ### **🫱🏻‍🫲🏼 Contact Me**
 <div align="center">
-<a href="https://linkedin.com/in/cecironalejoiii">
-<img src="https://img.shields.io/badge/cecironalejoiii-%230A66C2?logo=linkedin"/>
-</a> <a href="mailto:cecironalejoiii@gmail.com">
+<a href="https://linkedin.com/in/cecironalejoiii"><img src="https://img.shields.io/badge/cecironalejoiii-%230A66C2?logo=linkedin"/></a>
+<a href="mailto:cecironalejoiii@gmail.com">
 <img src="https://img.shields.io/badge/cecironalejoiii%40gmail.com-white?logo=gmail" />
 </a>
 </div>
